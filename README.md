@@ -1,5 +1,5 @@
 # mywebsite
-My boilerplate to easily build a complete website with NodeJs and ReactJs
+My boilerplate to easily build a complete website with Express and ReactJs
 
 ### Contains:
 - Back end
